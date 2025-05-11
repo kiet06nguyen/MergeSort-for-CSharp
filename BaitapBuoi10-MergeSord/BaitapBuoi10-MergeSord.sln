@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaitapBuoi10-MergeSord", "BaitapBuoi10-MergeSord\BaitapBuoi10-MergeSord.csproj", "{68A09ADA-8250-4AA6-AA0C-FE9F5468DEBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68A09ADA-8250-4AA6-AA0C-FE9F5468DEBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68A09ADA-8250-4AA6-AA0C-FE9F5468DEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68A09ADA-8250-4AA6-AA0C-FE9F5468DEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68A09ADA-8250-4AA6-AA0C-FE9F5468DEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E726E220-7AE3-4728-90EE-6818064D75E0}
+	EndGlobalSection
+EndGlobal

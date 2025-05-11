@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BaitapBuoi10-MergeSord/1.0.0": {
+        "runtime": {
+          "BaitapBuoi10-MergeSord.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BaitapBuoi10-MergeSord/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
