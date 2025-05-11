@@ -15,8 +15,6 @@ Requirements:
 ## Examples in the Project
 Merge
 
-Find pivot in array
-
 Swap value
 
 ## Contributing
